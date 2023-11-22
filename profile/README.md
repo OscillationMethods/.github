@@ -1,5 +1,8 @@
 # Methodological Considerations for Studying Neural Oscillations
 
+[![Website](https://img.shields.io/badge/website-datascienceinpractice.github.io-informational.svg)](https://oscillationmethods.github.io/)
+[![DOI](https://img.shields.io/badge/paper-10.1111/ejn.15361-success.svg)](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15361)
+
 This organization hosts a research project investigating topics and 
 concerns related to studying neural oscillations.
 
